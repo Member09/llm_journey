@@ -1,2 +1,2 @@
 # llm_journey
-trying to solve few scenario of 
+trying to solve few usecases of LLMs
