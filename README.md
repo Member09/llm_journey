@@ -11,8 +11,8 @@ The notebook inccludes an EDA on dataset, and training using Bayesian Algorithm 
 
 ## Translation
 Added a fine tuned model for transltion task.
-Data used (HuggingFace datasets) : hind_encorp (https://huggingface.co/datasets/hind_encorp)
-Base model (HuggingFace) : Helsinki-NLP/opus-mt-en-hi (https://huggingface.co/Helsinki-NLP/opus-mt-en-hi)
+- Data used (HuggingFace datasets) : hind_encorp (https://huggingface.co/datasets/hind_encorp)
+- Base model (HuggingFace) : Helsinki-NLP/opus-mt-en-hi (https://huggingface.co/Helsinki-NLP/opus-mt-en-hi)
 
 Further to add PEFT.
 
