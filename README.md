@@ -11,6 +11,7 @@ The notebook inccludes an EDA on dataset, and training using Bayesian Algorithm 
 
 ## Translation
 Added a fine tuned model for transltion task.
+The model translates the english sentences to hindi language. The base model I have used is the Helsinki-OPUS for eng-hin.
 - Data used (HuggingFace datasets) : hind_encorp (https://huggingface.co/datasets/hind_encorp)
 - Base model (HuggingFace) : Helsinki-NLP/opus-mt-en-hi (https://huggingface.co/Helsinki-NLP/opus-mt-en-hi)
 
